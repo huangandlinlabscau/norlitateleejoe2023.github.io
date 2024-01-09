@@ -7096,19 +7096,19 @@ h1 + p, h2 + p, h3 + p, .member-name + p {
   position: relative;
   padding: 50px;
   background-color: #faf2e4;
-  color: #6E8A9D; }
+  color: #ad8966; }
   @media (min-width: 768px) {
     .news {
       top: -50px; } }
   .news hr {
-    border-color: #6E8A9D;
+    border-color: #ad8966;
     border-width: 3px;
     width: 50%;
     margin-left: 0; }
   .news h4 {
     font-weight: bold; }
   .news a, .news a:hover {
-    color: #6E8A9D; }
+    color: #ad8966; }
 
 .news-item:not(:first-child) {
   margin-top: 30px; }
@@ -7154,7 +7154,7 @@ h1 + p, h2 + p, h3 + p, .member-name + p {
     text-transform: uppercase; }
   .publication .pub-author {
     display: inline-block;
-    color: #6e8a9d; }
+    color: #ad8966; }
     .publication .pub-author:not(:last-child)::after {
       content: ','; }
   .publication .pub-news {
