@@ -7095,7 +7095,7 @@ h1 + p, h2 + p, h3 + p, .member-name + p {
 .news {
   position: relative;
   padding: 50px;
-  background-color: #E4EEFA;
+  background-color: #faf2e4;
   color: #6E8A9D; }
   @media (min-width: 768px) {
     .news {
